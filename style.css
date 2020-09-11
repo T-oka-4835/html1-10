@@ -77,3 +77,37 @@ footer {
   background-color: #AAAAAA;
 }
 
+@media screen and (max-width: 765px) {
+  header {
+    width: 100%;
+  }
+
+  .main-content {
+    width: 100%;
+    display: block;
+    margin-bottom: 50px;
+  }
+
+  .main-container {
+    width: 90%;
+    margin: 50px auto;
+  }
+
+  .picture1 {
+    width: 100%;
+    padding-right: 1%;
+    padding-left: 1%;
+  }
+
+  .picture2 {
+    width: 100%;
+    padding-right: 1%;
+    padding-left: 1%;
+  }
+
+  .picture3 {
+    width: 100%;
+    padding-right: 1%;
+    padding-left: 1%;
+  }
+}
